@@ -24,14 +24,14 @@ A aplicação permite o cadastro e gerenciamento de clientes e seus respectivos 
 
 ## Tecnologias Utilizadas
 
-### Front-end
+### Front-end → Frontend
 
 * React
 * Axios
 * JavaScript
 * CSS
 
-### Back-end
+### Back-end → Backend
 
 * Python
 * FastAPI
