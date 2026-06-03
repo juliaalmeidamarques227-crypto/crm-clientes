@@ -1,6 +1,6 @@
 Projeto Full Stack com CRUD de clientes e endereços
 # CRM de Clientes
-![Banner](docs/images/banner.jpeg)
+
 Sistema Full Stack para gerenciamento de clientes e endereços desenvolvido com React, FastAPI e MySQL.
 
 ## Sobre o Projeto
