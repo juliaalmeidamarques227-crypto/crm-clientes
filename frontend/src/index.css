@@ -51,9 +51,11 @@
 }
 
 body {
-  margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f6fa;
+    margin: 0;
+    padding: 0;
 }
-
 #root {
   width: 1126px;
   max-width: 100%;
